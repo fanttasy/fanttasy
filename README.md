@@ -1,6 +1,6 @@
 - Hi, I’m @loieee.
 - Frontend develop explorer and like English.
-- Stack: `HTML` `CSS` `JavaScript` `Typescript` `Vue` `Node` `PHP`...
+- Stack: `HTML` `CSS` `JavaScript` `Typescript` `React` `Vue` `Node`...
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=loieee)](https://github.com/anuraghazra/github-readme-stats)
 
